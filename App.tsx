@@ -191,7 +191,7 @@ const allRunesJsonString = `{
         },
         {
           "name": "Conquistador",
-          "icon": "https://i.imgur.com/85xCoML.png",
+          "icon": "https://i.gyazo.com/1bd937b517e63a71d5151d4ae86f0c00.png",
           "status": "not_recommended",
           "description": "Conquistador é a única runa que se parece com o antigo Fervor da Batalha. Infelizmente, não conseguimos acumular esta runa de forma eficaz, devido à sua baixa duração e por não interagir com o nosso dano ao longo do tempo do Tiro Tóxico."
         }

@@ -257,9 +257,9 @@ const ChampionModal: React.FC<ChampionModalProps> = ({
   const getThreatLevelColor = (level: string | null | undefined) => {
     switch (level?.toLowerCase()) {
       case 'extreme': return 'text-red-700';
-      case 'major': return 'text-red-500';
-      case 'even': return 'text-yellow-600';
-      case 'minor': return 'text-green-600';
+      case 'dificil': return 'text-red-500';
+      case 'igual': return 'text-yellow-600';
+      case 'facil': return 'text-green-600';
       default: return 'text-stone-700';
     }
   };

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { AllRunesData, RuneDetailFromJSON, RuneTreeCategoryFromJSON, RuneShardData, RuneShardOption } from '../types';
 import { TeemoHatIcon } from './icons/TeemoHatIcon'; 
-import { MagicSparkleIcon } from './icons/SectionIcons'; 
+// import { MagicSparkleIcon } from './icons/SectionIcons'; 
 
 interface AllRunesGuideSectionProps {
   allRunesData: AllRunesData;
@@ -114,7 +114,7 @@ const AllRunesGuideSection: React.FC<AllRunesGuideSectionProps> = ({ allRunesDat
           aria-controls={`section-content-${sectionKey}`}
         >
           <div className="flex items-center" style={{ fontFamily: "'Comic Sans MS', 'Chalkboard SE', fantasy"}}>
-            <MagicSparkleIcon className="w-7 h-7 inline-block mr-2 align-middle" />
+            {/* <MagicSparkleIcon className="w-7 h-7 inline-block mr-2 align-middle" /> */}
             {shardData.name}
           </div>
           <span className="text-xl mr-3 transform transition-transform duration-200" style={{ transform: isOpen ? 'rotate(90deg)' : 'rotate(0deg)' }}>▶</span>
