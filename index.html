@@ -1,45 +1,59 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guia de Sobrevivência do Escoteiro Teemo</title>
-    <link rel="icon" type="image/png" href="/icons/icon-192x192.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="theme-color" content="#4D7C0F">
-    
-    <!-- Apple PWA Tags -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="Teemo Guia">
-    <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-      /* Custom scrollbar for a more thematic feel - optional */
-      ::-webkit-scrollbar {
-        width: 8px;
-        height: 8px;
-      }
-      ::-webkit-scrollbar-track {
-        background: #fde68a; /* amber-200 */
-      }
-      ::-webkit-scrollbar-thumb {
-        background: #92400e; /* amber-800 */
-        border-radius: 4px;
-      }
-      ::-webkit-scrollbar-thumb:hover {
-        background: #78350f; /* amber-900 */
-      }
-      /* Ensure body takes full height for sticky footer if needed */
-      html, body, #root {
-        height: 100%;
-      }
-      body {
-        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-      }
-    </style>
-<script type="importmap">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guia de Sobrevivência do Escoteiro Teemo</title>
+  <link rel="icon" type="image/png" href="/icons/icon-192x192.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="theme-color" content="#4D7C0F">
+
+  <!-- Apple PWA Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Teemo Guia">
+  <link rel="apple-touch-icon" href="/icons/icon-192x192.png">
+
+  <!-- Android PWA Tag -->
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Custom scrollbar for a more thematic feel - optional */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #fde68a;
+      /* amber-200 */
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #92400e;
+      /* amber-800 */
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #78350f;
+      /* amber-900 */
+    }
+
+    /* Ensure body takes full height for sticky footer if needed */
+    html,
+    body,
+    #root {
+      height: 100%;
+    }
+
+    body {
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    }
+  </style>
+  <script type="importmap">
 {
   "imports": {
     "react/": "https://esm.sh/react@^19.1.0/",
@@ -48,24 +62,26 @@
   }
 }
 </script>
-<link rel="stylesheet" href="/index.css">
+  <link rel="stylesheet" href="/index.css">
 </head>
+
 <body class="bg-lime-900 text-stone-800">
-    <noscript>Você precisa habilitar o JavaScript para rodar este aplicativo.</noscript>
-    <div id="root" class="flex flex-col min-h-screen"></div>
-    <script type="module" src="/index.tsx"></script>
-    <script>
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js')
-            .then(registration => {
-              console.log('ServiceWorker registration successful with scope: ', registration.scope);
-            })
-            .catch(error => {
-              console.log('ServiceWorker registration failed: ', error);
-            });
-        });
-      }
-    </script>
+  <noscript>Você precisa habilitar o JavaScript para rodar este aplicativo.</noscript>
+  <div id="root" class="flex flex-col min-h-screen"></div>
+  <script type="module" src="/index.tsx"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .then(registration => {
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          })
+          .catch(error => {
+            console.log('ServiceWorker registration failed: ', error);
+          });
+      });
+    }
+  </script>
 </body>
+
 </html>
