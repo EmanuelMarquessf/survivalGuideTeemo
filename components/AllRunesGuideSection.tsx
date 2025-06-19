@@ -85,7 +85,7 @@ const AllRunesGuideSection: React.FC<AllRunesGuideSectionProps> = ({ allRunesDat
     return (
       <div className="mb-6 mt-4">
         <h4 className="text-xl font-bold text-lime-800 mb-4 pb-2 border-b-2 border-lime-400 bg-lime-100 p-2 rounded-t-md shadow-sm">{title}</h4>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 ">
             {runes.map((rune, index) => renderRuneDetail(rune, treeKey, rowIndex, index))}
         </div>
       </div>
@@ -93,7 +93,7 @@ const AllRunesGuideSection: React.FC<AllRunesGuideSectionProps> = ({ allRunesDat
   };
 
   const renderRuneShardOption = (option: RuneShardOption, index: number) => (
-    <div key={`${option.name}-${index}`} className="flex items-center p-2 bg-white rounded-md border border-amber-300 shadow-sm">
+    <div key={`${option.name}-${index}`} className="flex items-center p-2 bg-white rounded-md border border-amber-300 shadow-sm ">
         <img src={option.icon} alt={option.name} className="w-6 h-6 mr-2 rounded-sm" loading="lazy"/>
         <span className="text-xs text-stone-700">{option.name}</span>
     </div>
@@ -113,7 +113,7 @@ const AllRunesGuideSection: React.FC<AllRunesGuideSectionProps> = ({ allRunesDat
           aria-expanded={isOpen}
           aria-controls={`section-content-${sectionKey}`}
         >
-          <div className="flex items-center" style={{ fontFamily: "'Comic Sans MS', 'Chalkboard SE', fantasy"}}>
+          <div className="flex items-center pl-2" style={{ fontFamily: "'Comic Sans MS', 'Chalkboard SE', fantasy"}}>
             {/* <MagicSparkleIcon className="w-7 h-7 inline-block mr-2 align-middle" /> */}
             {shardData.name}
           </div>
@@ -178,7 +178,7 @@ const AllRunesGuideSection: React.FC<AllRunesGuideSectionProps> = ({ allRunesDat
             <button
               type="button"
               onClick={() => toggleSection(treeKey)}
-              className="w-full text-left flex items-center justify-between text-2xl sm:text-3xl font-extrabold text-lime-700 mb-1 py-3 bg-lime-200 rounded-lg border-b-4 border-lime-600 shadow-lg tracking-wide hover:bg-lime-300 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-opacity-75 transition-colors duration-150"
+              className="w-full text-left flex items-center justify-between text-2xl sm:text-3xl font-extrabold text-lime-700 mb-1 py-3 bg-lime-200 rounded-lg border-b-4 border-lime-600 shadow-lg tracking-wide hover:bg-lime-300 focus:outline-none focus:ring-2 focus:ring-lime-500 focus:ring-opacity-75 transition-colors duration-150  pl-2"
               aria-expanded={isOpen}
               aria-controls={`section-content-${treeKey}`}
             >

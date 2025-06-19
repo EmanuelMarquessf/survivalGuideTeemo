@@ -28,7 +28,7 @@ import {
 import LoadingSpinner from './LoadingSpinner';
 import ErrorMessage from './ErrorMessage';
 import { MushroomIcon } from './icons/MushroomIcon';
-import { ScrollIcon, MagicSparkleIcon, LightbulbIcon } from './icons/SectionIcons';
+import { ScrollIcon, MagicSparkleIcon, LightbulbIcon, Mushroom } from './icons/SectionIcons';
 import { 
   InfoIcon, 
   KeyIcon, 
@@ -231,7 +231,7 @@ const ChampionModal: React.FC<ChampionModalProps> = ({
     if (!tips || tips.length === 0) return null;
     return (
       <div className="mb-4 p-3 bg-amber-50 rounded-md border border-amber-300 shadow-sm">
-        {renderSectionTitle(title, undefined, LightbulbIcon)}
+        {renderSectionTitle(title, undefined, Mushroom)}
         <ul className="list-disc list-inside text-sm text-stone-700 space-y-1 pl-2">
           {tips.map((tip, index) => (
             <li key={index} dangerouslySetInnerHTML={{ __html: tip }} />

@@ -4,7 +4,7 @@ import { ItemExplanationData, ItemExplanation, ItemExplanationCategories } from 
 import LoadingSpinner from './LoadingSpinner';
 import ErrorMessage from './ErrorMessage';
 import { TeemoHatIcon } from './icons/TeemoHatIcon';
-import { MagicSparkleIcon } from './icons/SectionIcons';
+import { Shield } from './icons/SectionIcons';
 
 interface TeemoItemExplanationSectionProps {
   explanationData: ItemExplanationData | null;
@@ -71,7 +71,7 @@ const TeemoItemExplanationSection: React.FC<TeemoItemExplanationSectionProps> = 
           style={{ fontFamily: "'Baloo 2', cursive" }}
         >
           <div className="flex items-center">
-            <MagicSparkleIcon className="w-6 h-6 mr-2 text-lime-700 flex-shrink-0" />
+            <Shield className="w-6 h-6 mr-2 text-lime-700 flex-shrink-0" />
             {categoryTitle}
           </div>
           <span className="text-xl text-lime-700 transform transition-transform duration-200" style={{ transform: isOpen ? 'rotate(90deg)' : 'rotate(0deg)' }}>
