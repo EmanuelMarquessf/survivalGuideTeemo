@@ -1,0 +1,344 @@
+
+{
+  "guiaDeRunasTeemo": {
+    "autor": "Sovereign Kitten",
+    "descricaoGeral": "Um extrato completo e fiel de todas as páginas de runas recomendadas no guia, com os nomes traduzidos para o português oficial do jogo. As runas devem ser adaptadas ao seu estilo de jogo, à sua lane e aos campeões inimigos.",
+    "rotas": [
+      {
+        "nomeRota": "TOP",
+        "paginasDeRunas": [
+          {
+            "nomePagina": "PRESSIONE O ATAQUE",
+            "dicaDoAutor": "Pessoalmente, você não deveria ficar spamando seu (Q), você vai maximizar o (W) e (E) e focar na sua mobilidade e kiting. Se você sentir que precisa de mana, pegue Presença de Espírito ou Faixa de Fluxo de Mana. Mas você realmente não precisa deles porque você é um campeão que depende principalmente de ataques básicos com alguns itens on-hit e um build híbrido AP/AD.",
+            "caminhoPrimario": {
+              "nome": "Precisão",
+              "runaPrincipal": { "nome": "Pressione o Ataque", "icone": "/images/reforged-rune/press-the-attack.png" },
+              "runas": [
+                { "nome": "Triunfo", "icone": "/images/reforged-rune/triumph.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" },
+                { "nome": "Golpe de Misericórdia", "icone": "/images/reforged-rune/coup-de-grace.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Feitiçaria",
+              "runas": [
+                { "nome": "Celeridade", "icone": "/images/reforged-rune/celerity.png" },
+                { "nome": "Tempestade Crescente", "icone": "/images/reforged-rune/gathering-storm.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          },
+          {
+            "nomePagina": "COLHEITA SOMBRIA",
+            "dicaDoAutor": "Colheita Sombria é uma runa de burst de alto tempo de recarga para o final do jogo, que EXIGE que você consiga acumular almas de forma consistente. Se não conseguir, é uma runa inútil, pois você precisa de mais de 25 acúmulos para superar Eletrocutar no final do jogo. Caçador de Tesouros ou Caça Suprema são as únicas runas de takedown que valem a pena.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Colheita Sombria", "icone": "/images/reforged-rune/dark-harvest.png" },
+              "runas": [
+                { "nome": "Golpe Desleal", "icone": "/images/reforged-rune/cheap-shot.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Dilacerar", "icone": "/images/reforged-rune/cut-down.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+10-180 de Vida adicional (escalável)"]
+          },
+          {
+            "nomePagina": "INVOCAR AERY",
+            "dicaDoAutor": "Esta é a build padrão para iniciantes. Tem o maior dano consistente na fase de rotas, mas decai muito no final do jogo. Recomendo Presença de Espírito e Faixa de Fluxo de Mana juntos para sustain de mana infinito.",
+            "caminhoPrimario": {
+              "nome": "Feitiçaria",
+              "runaPrincipal": { "nome": "Invocar Aery", "icone": "/images/reforged-rune/summon-aery.png" },
+              "runas": [
+                { "nome": "Faixa de Fluxo de Mana", "icone": "/images/reforged-rune/manaflow-band.png" },
+                { "nome": "Foco Absoluto", "icone": "/images/reforged-rune/absolute-focus.png" },
+                { "nome": "Chamuscar", "icone": "/images/reforged-rune/scorch.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Golpe de Misericórdia", "icone": "/images/reforged-rune/coup-de-grace.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+10-180 de Vida adicional (escalável)"]
+          },
+          {
+            "nomePagina": "AGILIDADE NOS PÉS",
+            "dicaDoAutor": "Eu só recomendaria isso em matchups realmente difíceis onde você levará muito dano (Malphite, Olaf, Aatrox). Você não causa muito dano com esta runa, dependendo totalmente da build de itens, mas a sustentação é forte.",
+            "caminhoPrimario": {
+              "nome": "Precisão",
+              "runaPrincipal": { "nome": "Agilidade nos Pés", "icone": "/images/reforged-rune/fleet-footwork.png" },
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" },
+                { "nome": "Dilacerar", "icone": "/images/reforged-rune/cut-down.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Determinação",
+              "runas": [
+                { "nome": "Ventos Revigorantes", "icone": "/images/reforged-rune/second-wind.png" },
+                { "nome": "Crescimento Excessivo", "icone": "/images/reforged-rune/overgrowth.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+10% de Tenacidade e Resistência a Lentidão"]
+          },
+          {
+            "nomePagina": "ELETROCUTAR",
+            "dicaDoAutor": "Eletrocutar é uma runa de burst de baixo tempo de recarga, permitindo trocas rápidas e dano alto. Em comparação com o quão forte Colheita Sombria se tornou, esta runa não tem sido muito usada, pois é mais focada em fechar o jogo cedo e criar snowball.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Eletrocutar", "icone": "/images/reforged-rune/electrocute.png" },
+              "runas": [
+                { "nome": "Golpe Desleal", "icone": "/images/reforged-rune/cheap-shot.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+10-180 de Vida adicional (escalável)"]
+          },
+          {
+            "nomePagina": "APERTO DOS MORTOS-VIVOS",
+            "dicaDoAutor": "Aperto é estritamente para sobreviver a rotas de poke pesado e com muito gap close, para ser mais tanque. Seu late game sofre devido ao baixo dano. É mais um build 'meme' para um Teemo tanque.",
+            "caminhoPrimario": {
+              "nome": "Determinação",
+              "runaPrincipal": { "nome": "Aperto dos Mortos-Vivos", "icone": "/images/reforged-rune/grasp-of-the-undying.png" },
+              "runas": [
+                { "nome": "Demolir", "icone": "/images/reforged-rune/demolish.png" },
+                { "nome": "Ventos Revigorantes", "icone": "/images/reforged-rune/second-wind.png" },
+                { "nome": "Crescimento Excessivo", "icone": "/images/reforged-rune/overgrowth.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Até a Morte", "icone": "/images/reforged-rune/last-stand.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+10-180 de Vida adicional (escalável)", "+10-180 de Vida adicional (escalável)"]
+          },
+          {
+            "nomePagina": "ÍMPETO GRADUAL",
+            "dicaDoAutor": "Agilidade nos Pés é basicamente uma combinação desta runa com Aperto. Esta runa não tem muito impacto fora de composições com muito slow. Não espere causar muito dano.",
+            "caminhoPrimario": {
+              "nome": "Feitiçaria",
+              "runaPrincipal": { "nome": "Ímpeto Gradual", "icone": "/images/reforged-rune/phase-rush.png" },
+              "runas": [
+                { "nome": "Faixa de Fluxo de Mana", "icone": "/images/reforged-rune/manaflow-band.png" },
+                { "nome": "Foco Absoluto", "icone": "/images/reforged-rune/absolute-focus.png" },
+                { "nome": "Tempestade Crescente", "icone": "/images/reforged-rune/gathering-storm.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" },
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+10-180 de Vida adicional (escalável)", "+10% de Tenacidade e Resistência a Lentidão"]
+          },
+          {
+            "nomePagina": "COMETA (Cogumelos)",
+            "dicaDoAutor": "Se você quer usar a nova runa Arcanista do Axioma, não faz muito sentido abrir mão da sustentabilidade de mana no início. Nesse caso, Colheita Sombria pode ser uma escolha melhor, mas quem não quer um aumento de 17.7% no dano do ultimate?",
+            "caminhoPrimario": {
+              "nome": "Feitiçaria",
+              "runaPrincipal": { "nome": "Cometa Arcano", "icone": "/images/reforged-rune/arcane-comet.png" },
+              "runas": [
+                { "nome": "Arcanista do Axioma", "icone": "/images/reforged-rune/axiom-arcanist.png" },
+                { "nome": "Transcendência", "icone": "/images/reforged-rune/transcendence.png" },
+                { "nome": "Tempestade Crescente", "icone": "/images/reforged-rune/gathering-storm.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Dilacerar", "icone": "/images/reforged-rune/cut-down.png" }
+              ]
+            },
+            "fragmentos": ["+9 de Força Adaptativa", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          }
+        ]
+      },
+      {
+        "nomeRota": "JUNGLE",
+        "paginasDeRunas": [
+          {
+            "nomePagina": "PRESSIONE O ATAQUE (Invade)",
+            "dicaDoAutor": "Uma runa bem balanceada para duelar contra oponentes e escalar para o final do jogo. É ideal contra caçadores que são mais fracos no início. Não é boa contra composições de CC puro.",
+            "caminhoPrimario": {
+              "nome": "Precisão",
+              "runaPrincipal": { "nome": "Pressione o Ataque", "icone": "/images/reforged-rune/press-the-attack.png" },
+              "runas": [
+                { "nome": "Triunfo", "icone": "/images/reforged-rune/triumph.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" },
+                { "nome": "Golpe de Misericórdia", "icone": "/images/reforged-rune/coup-de-grace.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Feitiçaria",
+              "runas": [
+                { "nome": "Celeridade", "icone": "/images/reforged-rune/celerity.png" },
+                { "nome": "Caminhar Sobre as Águas", "icone": "/images/reforged-rune/waterwalking.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          },
+          {
+            "nomePagina": "COLHEITA SOMBRIA (Controle de Mapa)",
+            "dicaDoAutor": "Esta build tem drasticamente menos velocidade de movimento, mas foca mais na cobertura do mapa com cogumelos extremamente poderosos. Pode levar tempo para decolar, já que seu início de jogo sofrerá se você for invadido.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Colheita Sombria", "icone": "/images/reforged-rune/dark-harvest.png" },
+              "runas": [
+                { "nome": "Golpe Desleal", "icone": "/images/reforged-rune/cheap-shot.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Feitiçaria",
+              "runas": [
+                { "nome": "Arcanista do Axioma", "icone": "/images/reforged-rune/axiom-arcanist.png" },
+                { "nome": "Transcendência", "icone": "/images/reforged-rune/transcendence.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          }
+        ]
+      },
+      {
+        "nomeRota": "MID",
+        "paginasDeRunas": [
+          {
+            "nomePagina": "COLHEITA SOMBRIA",
+            "dicaDoAutor": "Ideal para um estilo de jogo de burst no mid. Combina com Determinação na secundária para maior sobrevivência contra magos de poke.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Colheita Sombria", "icone": "/images/reforged-rune/dark-harvest.png" },
+              "runas": [
+                { "nome": "Gosto de Sangue", "icone": "/images/reforged-rune/taste-of-blood.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Determinação",
+              "runas": [
+                { "nome": "Ventos Revigorantes", "icone": "/images/reforged-rune/second-wind.png" },
+                { "nome": "Crescimento Excessivo", "icone": "/images/reforged-rune/overgrowth.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          },
+          {
+            "nomePagina": "ELETROCUTAR",
+            "dicaDoAutor": "Você está jogando no MID, só existe um estilo de jogo: Burst. Se você não acha que precisa da secundária de Determinação, opte por algo com que se sinta confortável (Precisão / Feitiçaria), caso contrário, você ficará sem mana muito rapidamente.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Eletrocutar", "icone": "/images/reforged-rune/electrocute.png" },
+              "runas": [
+                { "nome": "Gosto de Sangue", "icone": "/images/reforged-rune/taste-of-blood.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Determinação",
+              "runas": [
+                { "nome": "Ventos Revigorantes", "icone": "/images/reforged-rune/second-wind.png" },
+                { "nome": "Crescimento Excessivo", "icone": "/images/reforged-rune/overgrowth.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+9 de Força Adaptativa", "+65 de Vida Base"]
+          },
+          {
+            "nomePagina": "PRESSIONE O ATAQUE ou AGILIDADE NOS PÉS",
+            "dicaDoAutor": "Se você se encontrar enfrentando magos de poke pesado e não sentir que um estilo de jogo de burst seria adequado para a rota, você pode tentar uma abordagem mais defensiva com Agilidade nos Pés, embora seja uma lane muito mais passiva no geral.",
+            "caminhoPrimario": {
+              "nome": "Precisão",
+              "runaPrincipal": { "nome": "Agilidade nos Pés", "icone": "/images/reforged-rune/fleet-footwork.png" },
+              "runas": [
+                { "nome": "Triunfo", "icone": "/images/reforged-rune/triumph.png" },
+                { "nome": "Lenda: Espontaneidade", "icone": "/images/reforged-rune/legend-alacrity.png" },
+                { "nome": "Golpe de Misericórdia", "icone": "/images/reforged-rune/coup-de-grace.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Determinação",
+              "runas": [
+                { "nome": "Ventos Revigorantes", "icone": "/images/reforged-rune/second-wind.png" },
+                { "nome": "Crescimento Excessivo", "icone": "/images/reforged-rune/overgrowth.png" }
+              ]
+            },
+            "fragmentos": ["+10% de Velocidade de Ataque", "+2% de Velocidade de Movimento", "+10% de Tenacidade e Resistência a Lentidão"]
+          }
+        ]
+      },
+      {
+        "nomeRota": "SUPPORT",
+        "paginasDeRunas": [
+          {
+            "nomePagina": "COMETA ARCANO",
+            "dicaDoAutor": "É estranho, mas você usará Teemo como suporte. O melhor uso é com seus cogumelos para cegar alvos. Você buscará o máximo de dano específico com cogumelos, por isso Arcanista do Axioma + Dilacerar se complementam bem. O dano dos cogumelos é significativo no final do jogo, superando Colheita Sombria se você não conseguiu acumular almas.",
+            "caminhoPrimario": {
+              "nome": "Feitiçaria",
+              "runaPrincipal": { "nome": "Cometa Arcano", "icone": "/images/reforged-rune/arcane-comet.png" },
+              "runas": [
+                { "nome": "Arcanista do Axioma", "icone": "/images/reforged-rune/axiom-arcanist.png" },
+                { "nome": "Transcendência", "icone": "/images/reforged-rune/transcendence.png" },
+                { "nome": "Tempestade Crescente", "icone": "/images/reforged-rune/gathering-storm.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Dilacerar", "icone": "/images/reforged-rune/cut-down.png" }
+              ]
+            },
+            "fragmentos": ["+9 de Força Adaptativa", "+9 de Força Adaptativa", "+10-180 de Vida adicional (escalável)"]
+          },
+          {
+            "nomePagina": "COLHEITA SOMBRIA",
+            "dicaDoAutor": "Idealmente, você procura um acúmulo de Colheita Sombria a cada um ou dois minutos. Se não estiver conseguindo, deveria jogar com outra runa como Cometa para os procs consistentes que ele aplica no meio e final do jogo, enquanto ainda causa muito dano.",
+            "caminhoPrimario": {
+              "nome": "Dominação",
+              "runaPrincipal": { "nome": "Colheita Sombria", "icone": "/images/reforged-rune/dark-harvest.png" },
+              "runas": [
+                { "nome": "Gosto de Sangue", "icone": "/images/reforged-rune/taste-of-blood.png" },
+                { "nome": "Sentinela Zumbi", "icone": "/images/reforged-rune/deep-ward.png" },
+                { "nome": "Caça Suprema", "icone": "/images/reforged-rune/ultimate-hunter.png" }
+              ]
+            },
+            "caminhoSecundario": {
+              "nome": "Precisão",
+              "runas": [
+                { "nome": "Presença de Espírito", "icone": "/images/reforged-rune/presence-of-mind.png" },
+                { "nome": "Dilacerar", "icone": "/images/reforged-rune/cut-down.png" }
+              ]
+            },
+            "fragmentos": ["+8 de Aceleração de Habilidade", "+9 de Força Adaptativa", "+10-180 de Vida adicional (escalável)"]
+          }
+        ]
+      }
+    ]
+  }
+}

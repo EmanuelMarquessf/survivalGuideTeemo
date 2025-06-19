@@ -1,0 +1,37 @@
+
+{
+  "generalTips": {
+    "title": "Dicas Essenciais do Escoteiro Teemo",
+    "introduction": "Dominar o Teemo requer astúcia, posicionamento e um amor por cogumelos. Aqui estão algumas dicas gerais para te ajudar a se tornar um terror em Summoner's Rift!",
+    "tips": [
+      {
+        "title": "O Poder da Furtividade (P)",
+        "description": "Sua passiva 'Guerrilha' é uma ferramenta poderosa. Use-a para emboscadas, escapar de situações perigosas ou simplesmente para surpreender inimigos. Lembre-se que ficar parado ou em um arbusto por 1.5 segundos te deixa invisível. Qualquer ação (exceto mover-se dentro do arbusto) quebra a invisibilidade."
+      },
+      {
+        "title": "Dardo Ofuscante (Q) - Mais que Dano",
+        "description": "O 'Q' do Teemo não só causa dano, mas também cega o alvo, fazendo com que seus ataques básicos errem. Priorize usá-lo em campeões que dependem de ataques básicos (ADCs, lutadores como Tryndamere, Master Yi). No início do jogo, pode ser uma ótima ferramenta de poke."
+      },
+      {
+        "title": "Mover Rápido (W) - Mobilidade é Chave",
+        "description": "Seu 'W' concede velocidade de movimento passiva e uma ativa que dobra essa velocidade por um curto período. Use para kiting, escapar, ou para se reposicionar rapidamente em lutas ou para colocar cogumelos."
+      },
+      {
+        "title": "Tiro Tóxico (E) - Dano Constante",
+        "description": "Seu 'E' aplica veneno a cada ataque básico, causando dano mágico ao longo do tempo. É sua principal fonte de dano em trocas prolongadas e para farmar. Combinado com itens de AP e velocidade de ataque, pode ser devastador."
+      },
+      {
+        "title": "Armadilha Noxiana (R) - Controle de Mapa e Dor",
+        "description": "Os cogumelos são a marca registrada do Teemo. Use-os para controlar objetivos (Dragão, Barão), proteger suas rotas de ganks, em arbustos para emboscadas, ou em rotas de fuga inimigas. O posicionamento inteligente dos cogumelos pode mudar o curso de uma luta ou do jogo."
+      },
+      {
+        "title": "Estilos de Jogo",
+        "description": "Teemo é versátil. Pode ser construído AP para dano de burst e cogumelos poderosos, On-Hit (com velocidade de ataque e efeitos de contato) para dano sustentado, ou até mesmo tanque em certas situações. Adapte sua build e runas ao seu time e aos inimigos."
+      },
+      {
+        "title": "Mentalidade do Teemo",
+        "description": "Jogue para irritar. Seu objetivo é ser um incômodo constante, controlando o mapa com cogumelos e desgastando os inimigos. Um Teemo bem jogado pode causar um impacto psicológico tanto quanto um impacto no jogo."
+      }
+    ]
+  }
+}

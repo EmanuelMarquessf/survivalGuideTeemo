@@ -1,0 +1,162 @@
+
+{
+  "guia_de_itens": {
+    "itens_iniciais": [
+      {
+        "nome": "Poção de Vida vs. Poção com Refil",
+        "icon": "https://www.mobafire.com/images/item/health-potion-64x.png",
+        "descricao": "Poção de Vida vs. Poção com Refil é um debate frequente. Alguns preferem a cura da Poção com Refil ao longo do jogo, economizando ouro para dois usos. Outros preferem a cura ligeiramente maior das poções normais, sem precisar delas mais tarde. Geralmente, se você começar com o Selo Negro, é melhor pegar a Poção com Refil, enquanto o Anel de Doran será muito melhor com as 3 poções básicas. Pelo preço, você obterá mais vida com 3 Poções de Vida em comparação com a Poção com Refil. No entanto, com a Poção com Refil, você terá um suprimento constante de sustain toda vez que voltar à base para recarregá-la. Você também pode simplesmente pegar a Poção com Refil após a fase de rotas."
+      },
+      {
+        "nome": "Anel de Doran",
+        "icon": "https://www.mobafire.com/images/item/dorans-ring-64x.png",
+        "descricao": "Anel de Doran é um dos melhores itens iniciais para o Teemo, em praticamente todas as situações. Você ganha um grande aumento de dano em todas as suas habilidades, especialmente no Tiro Tóxico, enquanto também ganha sustain de mana e mais dano ao contato em minions. Você também receberá uma boa quantidade de vida. Causa mais dano e farma com mais facilidade."
+      },
+      {
+        "nome": "Selo Negro",
+        "icon": "https://www.mobafire.com/images/item/dark-seal-64x.png",
+        "descricao": "Selo Negro é basicamente o mesmo item que o Anel de Doran, a maior diferença, no entanto, é a falta de vida, dano ao contato e sustain de mana. Apesar disso, se você conseguir acumulá-lo totalmente, o Ladrão de Almas de Mejai se torna um dos itens de escalonamento de AP mais fortes do jogo para criar um efeito bola de neve. É um item arriscado de se pegar, pois morrer faz você perder seus acúmulos, dos quais você precisa de 25 para escalar totalmente."
+      },
+      {
+        "nome": "Escudo de Doran",
+        "icon": "https://www.mobafire.com/images/item/dorans-shield-64x.png",
+        "descricao": "O Escudo de Doran não tem muito uso para nós now que existem itens, runas e builds melhores que nos ajudam a mitigar o dano de campeões com poke pesado. Ventos Revigorantes é a runa que frequentemente pegamos para mitigar dano, o que é semelhante ao que este item costumava ser usado. Se você pegar este item, o Anel de Doran será bloqueado, embora você ainda possa pegar o Selo Negro."
+      },
+      {
+        "nome": "Espinho Dimensional de Zaz'Zak",
+        "icon": "https://www.mobafire.com/images/item/zazzaks-realmspike-64x.png",
+        "descricao": "Este é o item da série de suporte que evolui do Atlas Mundial para a forma secundária de Bússola Rúnica, que proporciona ao Teemo uma vantagem significativa, independentemente de ele estar jogando com um estilo de Queimadura (Burn) ou Explosão (Burst). Os outros itens de suporte realmente não têm boa sinergia com ele. Este item contribui muito para o dano de seus cogumelos no final do jogo."
+      }
+    ],
+    "escolhas_de_botas": [
+      {
+        "nome": "Sapatos do Feiticeiro",
+        "icon": "https://www.mobafire.com/images/item/sorcerers-shoes-64x.png",
+        "descricao": "Aumentarão drasticamente seu dano geral em tudo o que você faz devido à penetração mágica fixa de 18. Não o protegerão de forma alguma em comparação com as outras opções defensivas. É visto em quase todas as builds e acumula muito bem com full AP. No entanto, com as mudanças no Dente de Nashor, as Grevas do Berserker são uma escolha melhor, oferecendo mais."
+      },
+      {
+        "nome": "Grevas do Berserker",
+        "icon": "https://www.mobafire.com/images/item/berserkers-greaves-64x.png",
+        "descricao": "É uma opção incrível ao jogar com Pressione o Ataque, pois facilita o acúmulo de velocidade de ataque, o kiting e o farm de forma mais eficaz desde o início. Se você estiver jogando com qualquer outra runa, obterá mais benefícios dos Sapatos do Feiticeiro, então não seria tão benéfico para o uso principal, que é split-push e duelos contra lutadores/tanques."
+      },
+      {
+        "nome": "Zéfiro",
+        "icon": "https://www.mobafire.com/images/item/zephyr-64x.png",
+        "descricao": "Para responder sua pergunta, com certeza. Zéfiro é muito útil se você está jogando um estilo de jogo mais focado em On-Hit, kiting e luta no final do jogo, como uma evolução das Grevas do Berserker. A velocidade de movimento bônus ao contato é substancialmente aumentada, especialmente para quem joga na selva com Celeridade e Caminhar Sobre as Águas com o Esmigalhas e a passiva de Mover Rápido ativada."
+      },
+      {
+        "nome": "Passos de Mercúrio",
+        "icon": "https://www.mobafire.com/images/item/mercurys-treads-64x.png",
+        "descricao": "Ajudarão em jogos difíceis onde você enfrenta muito AP com muito controle de grupo (CC), como Morgana, Lux ou Swain; caso contrário, outro item de RM seria preferível. Não é uma boa escolha se for apenas um campeão com muito AP ou CC. A tenacidade extra que oferecem ajudará a reduzir ligeiramente seus efeitos, ao mesmo tempo que aumenta nossa já baixa resistência mágica."
+      },
+      {
+        "nome": "Botas Galvanizadas de Aço",
+        "icon": "https://www.mobafire.com/images/item/plated-steelcaps-64x.png",
+        "descricao": "Protegerão você contra muitos campeões que são especialistas em causar dano com ataques básicos, mas que não causam muito dano on-hit de itens como Lâmina do Rei Destruído ou Limite da Razão. O dano on-hit é completamente ignorado, então não compre contra uma Irelia. Campeões como Draven, Udyr e até Riven. Não se limita apenas a eles, se você se encontrar contra mais atacantes com dano fortalecido."
+      },
+      {
+        "nome": "Botas da Rapidez",
+        "icon": "https://www.mobafire.com/images/item/boots-of-swiftness-64x.png",
+        "descricao": "São usadas contra campeões com muita mobilidade ou muitas habilidades de lentidão que precisamos evitar, muitas vezes com Agilidade nos Pés como nossa runa principal. Geralmente, é uma escolha segura, em vez de agressiva como as outras. Você realmente não precisa delas contra a maioria dos campeões. É simplesmente uma muleta para te ajudar a ser móvel; basta colocar mais pontos no seu (W) no início."
+      }
+    ],
+    "itens_principais_e_situacionais": [
+      {
+        "nome": "Dente de Nashor",
+        "icon": "https://www.mobafire.com/images/item/nashors-tooth-64x.png",
+        "descricao": "Seu principal propósito é conceder uma boa quantidade de Velocidade de Ataque junto com um farm consistente para transicionar para o poke nos campeões inimigos durante a fase de rotas. É ótimo para causar dano de poke, lutas prolongadas e burst, complementando o Tiro Tóxico e o dano on-hit da Perdição de Lich. É um dos melhores itens que dão um pico de poder no início e meio do jogo, embora perca força no final."
+      },
+      {
+        "nome": "Tormento de Liandry",
+        "icon": "https://www.mobafire.com/images/item/liandrys-anguish-64x.png",
+        "descricao": "Armadilha Venenosa e Dardo Ofuscante recebem um bom aumento de dano contra campeões em geral. É sempre construído para o final do jogo, mesmo que você decida por uma build diferente, pois os cogumelos são extremamente úteis para seu controle de mapa e defesa no final do jogo, mesmo que todos tenham Lente do Oráculo. Combinado com Malevolência, prova ser um dos maiores picos de dano que vimos em muito tempo."
+      },
+      {
+        "nome": "Tocha de Fogo Negro",
+        "icon": "https://www.mobafire.com/images/item/blackfire-torch-64x.png",
+        "descricao": "Funciona aumentando a quantidade de dano que você causa com base em quantos alvos você está danificando com habilidades. Em princípio, se configurado corretamente, você poderia acumular preventivamente em muitas rotas, acampamentos e campeões adversários com (R) ao mesmo tempo, aumentando seu AP geral em 100-200 por um curto período, o que é absolutamente insano, já que a queimadura se acumula com outros efeitos de dano ao longo do tempo."
+      },
+      {
+        "nome": "Malevolência",
+        "icon": "https://www.mobafire.com/images/item/malignance-64x.png",
+        "descricao": "APENAS PARA COGUMELOS. Malevolência tem um efeito poderoso e dominante. Não é recomendado para o início do jogo ou como primeira escolha, porque você precisa de um início de jogo para fazer a transição para os cogumelos. Ele pode lançar vários campos de dano em área e ativar a Colheita Sombria, algo que o Tormento de Liandry nunca conseguiu fazer. Isso o torna extremamente quebrado, causando até 3000 de dano com um único cogumelo."
+      },
+      {
+        "nome": "Chama Sombria",
+        "icon": "https://www.mobafire.com/images/item/shadowflame-64x.png",
+        "descricao": "É um item incrível. É um dos itens com melhor custo-benefício do jogo! 120 de AP, acertos críticos com 35% de vida e 10 de penetração mágica fixa é absolutamente absurdo. Você pode combinar este item com o Tormento de Liandry com certas builds de runas para realmente punir as pessoas nas fases iniciais do jogo, onde o Teemo é mais forte. Quando você chega ao final do jogo, as pessoas caem como moscas."
+      },
+      {
+        "nome": "Morellonomicon",
+        "icon": "https://www.mobafire.com/images/item/morellonomicon-64x.png",
+        "descricao": "Foi muito alterado ao longo dos anos para combater o 'sustain creep' e também para ajudar no geral a causar mais dano, mas hoje em dia o sustain não é um grande problema, a menos que você esteja lidando com composições como Soraka ou Vladimir, já que ele não oferece muito mais para o seu dano, e o Incendiar já possui um corta-cura embutido, embora com um longo tempo de recarga."
+      },
+      {
+        "nome": "Perdição de Lich",
+        "icon": "https://www.mobafire.com/images/item/lich-bane-64x.png",
+        "descricao": "É um item muito poderoso para o Teemo quando ele fica forte no início do jogo após comprar o Dente de Nashor. Teemo pode abusar dele com W-E, Q-E ou R-E se tiver tempo suficiente para resetar o tempo de recarga de 1,5s. Como o dano básico do Teemo é On-Hit e escala com AP, ele vai derreter qualquer um em um combo quando combinado com Tiro Tóxico, Dente de Nashor e Capuz da Morte de Rabadon."
+      },
+      {
+        "nome": "Ímpeto Cósmico",
+        "icon": "https://www.mobafire.com/images/item/cosmic-drive-64x.png",
+        "descricao": "Oferece um sólido bônus de velocidade de movimento ao atingir um inimigo com seu ataque básico. Tem alta sinergia com Agilidade nos Pés, focando em maximizar seu (W) e outros itens como a Perdição de Lich para entrar e sair rapidamente com alta mobilidade. Também tem alguma utilidade em builds de cogumelos, mas é mais útil como um item de mobilidade para nós hoje em dia."
+      },
+      {
+        "nome": "Capuz da Morte de Rabadon",
+        "icon": "https://www.mobafire.com/images/item/rabadons-deathcap-64x.png",
+        "descricao": "Combinado com todos os seus outros itens principais, como Tormento de Liandry, Morellonomicon e Perdição de Lich, resultará em um aumento tremendo de dano. No entanto, não é um item que você construiria primeiro, mas sim quando já tiver outros itens para complementá-lo. Portanto, normalmente é uma compra de 3º ou 4º item em muitas builds, ou uma compra final em outras."
+      },
+      {
+        "nome": "Cajado do Vazio",
+        "icon": "https://www.mobafire.com/images/item/void-staff-64x.png",
+        "descricao": "Muitas vezes, destina-se apenas a campeões com muita resistência mágica. Se você estiver contra uma composição de campeões frágeis sem lutadores ou tanques, este item adicionará apenas 15 de Penetração Mágica, o que obviamente não é muito. Nesse caso, seria melhor construir outros itens para mais dano. É ótimo contra itens como Semblante Espiritual e Mandíbula de Malmortius."
+      },
+      {
+        "nome": "Florescerto de Cripta",
+        "icon": "https://www.mobafire.com/images/item/cryptbloom-64x.png",
+        "descricao": "Muitos jogadores subestimam um item como o Florescerto de Cripta, que é efetivamente o mesmo que o Cajado do Vazio, mas desempenha um papel significativo no auxílio à sua equipe. Conseguir abates ou assistências cria uma área de cura que escala com AP, o que significa que, com 800-1000 de AP, você curaria aliados próximos em 400-500+."
+      },
+      {
+        "nome": "Limite da Razão",
+        "icon": "https://www.mobafire.com/images/item/wits-end-64x.png",
+        "descricao": "É um ótimo item para adquirir se você estiver enfrentando alguns campeões de AP com pouco ou nenhum CC. Funciona extremamente bem com Furacão de Runaan e Dente de Nashor, pois fornece dano on-hit escalável e grande resistência/tenacidade, tornando o split-push e as lutas de equipe no final do jogo mais impactantes. Idealmente jogado com Pressione o Ataque, pois outras builds têm pouca ou nenhuma sinergia."
+      },
+      {
+        "nome": "Furacão de Runaan",
+        "icon": "https://www.mobafire.com/images/item/runaans-hurricane-64x.png",
+        "descricao": "É tudo sobre split-push. Beneficia-se de itens on-hit e builds de velocidade de ataque, permitindo que você atinja três alvos de uma vez. O Tiro Tóxico aplicará o dano on-hit antes de aplicar o dano ao longo do tempo, o que tem boa sinergia com builds de AP. No entanto, este é literalmente um item mais voltado para jogos de elo muito baixo."
+      },
+      {
+        "nome": "Canhão Fumegante",
+        "icon": "https://www.mobafire.com/images/item/rapid-firecannon-64x.png",
+        "description": "É um item usado para ajudar contra magos difíceis de pokear, como Cassiopeia ou Ryze. Ele aumentará o alcance do seu ataque automático para um pouco além do alcance das habilidades deles, permitindo que você os pokeie e abata com segurança. Você não perderá nada em comparação com o Dente de Nashor, exceto o escalonamento de AP do (Q) e (E). Oferece muita sinergia com Agilidade nos Pés."
+      },
+      {
+        "nome": "Ladrão de Almas de Mejai's",
+        "icon": "https://www.mobafire.com/images/item/mejais-soulstealer-64x.png",
+        "descricao": "É devastador se você se encontrar em uma situação em que está dominando e precisa de ainda mais escalonamento de AP do que defesa. O escalonamento de 35% do Capuz da Morte de Rabadon torna isso muito maior. Ele também oferecerá 100 de vida extra e 10% de velocidade de movimento, o que é ótimo, já que sempre foi o item de aposta destinado a dar dano ao custo de todo o resto."
+      },
+      {
+        "nome": "Véu da Banshee",
+        "icon": "https://www.mobafire.com/images/item/banshees-veil-64x.png",
+        "descricao": "É um escudo de feitiço de uso único que impedirá que CC de uma habilidade ou dano de habilidade de qualquer tipo nos atinja, antes de entrar em um tempo de recarga de 40s. Observe que, devido ao META atual de magos com Perdição de Lich, ele NÃO impedirá o aprimoramento do ataque básico. Portanto, seria melhor optar por outra coisa que lhe forneça mais resistência + vida."
+      },
+      {
+        "nome": "Ampulheta de Zhonya",
+        "icon": "https://www.mobafire.com/images/item/zhonyas-hourglass-64x.png",
+        "descricao": "É um item de estase que nos permite ficar invulneráveis por 2,5s para evitar todo o dano que está prestes a nos atingir ou que já está nos afligindo. Muitas vezes, acabará fazendo com que você seja morto se não tiver uma equipe para te dar suporte. O Guarda-braço da Caçadora é muito útil em confrontos de poke e engajamento AD pesados; portanto, se estiver com dificuldades, pegá-lo junto com um Cristal de Rubi ajuda muito."
+      },
+      {
+        "nome": "Armadura de Warmog",
+        "icon": "https://www.mobafire.com/images/item/warmogs-armor-64x.png",
+        "descricao": "Pode parecer um item estranho para o Teemo, mas é um item incrível entre as lutas, e muito bom se você não usar runas/builds de sustain. Só é pensado em ser comprado bem no final do jogo com Aperto dos Mortos-Vivos. Esqueça este item se eles tiverem campeões com Lâmina do Rei Destruído, como Master Yi, Irelia, etc."
+      },
+      {
+        "nome": "Bandana de Mercúrio",
+        "icon": "https://www.mobafire.com/images/item/quicksilver-sash-64x.png",
+        "descricao": "Não é de forma alguma um bom item em termos de sinergia com o Teemo. É usado apenas para counterar um campeão específico: Malzahar. O item foi nerfado e não funciona mais em campeões como Mordekaiser, portanto não tem lugar em nossas builds, não que realmente precisássemos usá-lo contra ele, a menos que estivesse forte. Então, lembre-se disso da próxima vez que lutar contra ele."
+      }
+    ]
+  }
+}
+    

@@ -1,0 +1,242 @@
+
+{
+  "guiaDeItensTeemo": {
+    "autor": "Sovereign Kitten",
+    "descricaoGeral": "Um extrato completo de todas as builds e itens recomendados no guia para Teemo, incluindo itens iniciais, de meio de jogo, builds completas e situacionais para cada rota, com as dicas estratégicas do autor.",
+    "rotas": [
+      {
+        "nomeRota": "TOP",
+        "buildsDeItens": [
+          {
+            "categoria": "ITENS INICIAIS CORE / DICAS",
+            "conjuntos": [
+              {
+                "nomeConjunto": "Doran's Ring",
+                "dicaDoAutor": "O problema com o Anel de Doran antigo era que oferecia pouca sustentação para quem não sabia farmar bem. Agora, basta atacar o campeão inimigo para receber um impulso na regeneração de mana por 10 segundos.",
+                "itens": [
+                  { "nome": "Anel de Doran", "quantidade": 1 },
+                  { "nome": "Poção de Vida", "quantidade": 2 }
+                ]
+              },
+              {
+                "nomeConjunto": "Dark Seal",
+                "dicaDoAutor": "Se você sabe que vai dominar sua rota, comprar o Selo Negro cedo permite acumular dano de snowball. É recomendado voltar à base e comprar um Selo Negro ou Botas básicas se conseguir abates antes do início da rota.",
+                "itens": [
+                  { "nome": "Selo Negro", "quantidade": 1 },
+                  { "nome": "Poção com Refil", "quantidade": 1 }
+                ]
+              },
+              {
+                "nomeConjunto": "Snowball",
+                "dicaDoAutor": "Não importa qual runa você use. Se você conseguiu alguns abates cedo, esta é de longe uma das builds mais fortes para snowballar em 1v1, especialmente com Colheita Sombria ou Pressionar o Ataque.",
+                "itens": [
+                  { "nome": "Dente de Nashor", "quantidade": 1 },
+                  { "nome": "Selo Negro", "quantidade": 1 },
+                  { "nome": "Chama Sombria", "quantidade": 1 }
+                ]
+              },
+              {
+                "nomeConjunto": "Gutted (Destruído)",
+                "dicaDoAutor": "Infelizmente, muitos nerfs recentes tornaram um item como a Mata-Cráquens inútil de se construir, não importa a situação. É simplesmente melhor optar por uma variante AP on-hit ou uma build de queima. Teemo AD está oficialmente morto por enquanto.",
+                "itens": [
+                  { "nome": "Mata-Cráquens", "quantidade": 1 }
+                ]
+              }
+            ]
+          },
+          {
+            "categoria": "PRIMEIRO RETORNO (Idealmente aos 6 Minutos)",
+            "conjuntos": [
+              {
+                "nomeConjunto": "CS / KITE (Nashor)",
+                "dicaDoAutor": "No seu primeiro retorno, você deve ter 1100 de ouro ou mais. Idealmente, 1700 de ouro para Botas (Tier 2) e Arco Recurvo. Este retorno é para caitar (kiting), pokear e farmar de forma mais eficaz. Combina bem com runas como Pressione o Ataque.",
+                "itens": [
+                  { "nome": "Grevas do Berserker", "quantidade": 1 },
+                  { "nome": "Arco Recurvo", "quantidade": 1 }
+                ]
+              },
+              {
+                "nomeConjunto": "DANO (Liandry's)",
+                "dicaDoAutor": "O ideal é ter 1900 de ouro no primeiro retorno. Esta é frequentemente a melhor escolha devido ao custo. Se você tiver first blood, compre as Botas do Feiticeiro. Se não, compre apenas as botas básicas.",
+                "itens": [
+                  { "nome": "Sapatos do Feiticeiro", "quantidade": 1 },
+                  { "nome": "Cinzas Predestinadas", "quantidade": 1 }
+                ]
+              },
+              {
+                "nomeConjunto": "Seus primeiros itens baseados na build",
+                "dicaDoAutor": "Você deve ter Dente de Nashor ou o Tormento de Liandry e botas por volta dos 13-15 minutos. Se não conseguir, precisa aprender a jogar melhor seus matchups e microgerenciamento.",
+                "itens": [
+                  { "nome": "Botas", "quantidade": 1 },
+                  { "nome": "Dente de Nashor", "quantidade": 1 },
+                  { "nome": "Tormento de Liandry", "quantidade": 1 },
+                  { "nome": "Sentinela de Controle", "quantidade": 2 }
+                ]
+              }
+            ]
+          },
+          {
+            "categoria": "PRESSIONAR O ATAQUE - Mais eficaz contra composições AP",
+            "conjuntos": [
+              {
+                "nomeConjunto": "BUILD COMPLETA #1 | AP ON-HIT",
+                "dicaDoAutor": "Esta é a melhor build que encontrei que acerta em cheio para um estilo de jogo on-hit defensivo, de sustain, baseado em kiting e mobilidade, permitindo que você faça split-push solo e duele contra seus oponentes.",
+                "itens": ["Grevas do Berserker", "Dente de Nashor", "Selo Negro", "Chama Sombria", "Tormento de Liandry", "Capuz da Morte de Rabadon"]
+              },
+              {
+                "nomeConjunto": "BUILD COMPLETA #2 | AP BURN",
+                "dicaDoAutor": "Se preferir mais dano, pode trocar as Grevas do Berserker por Sapatos do Feiticeiro. No entanto, como não estamos jogando um estilo de kiting com esta build, pode afetar seu desempenho geral, embora aumente seu dano total. É uma build para quando você não pode mais duelar e precisa se juntar ao time.",
+                "itens": ["Botas da Rapidez", "Tormento de Liandry", "Malevolência", "Chama Sombria", "Tocha de Fogo Negro", "Capuz da Morte de Rabadon"]
+              }
+            ]
+          },
+          {
+            "categoria": "COLHEITA SOMBRIA - Mais eficaz contra composições frágeis",
+            "conjuntos": [
+              {
+                "nomeConjunto": "BUILD COMPLETA #1 | BURST (E)!",
+                "dicaDoAutor": "Se você quer burst, esta é a build para consistência. Chama Sombria é bom demais para deixar passar com sua penetração mágica pura e escalonamento de AP.",
+                "itens": ["Sapatos do Feiticeiro", "Ladrão de Almas de Mejai", "Chama Sombria", "Capuz da Morte de Rabadon", "Perdição de Lich", "Surto da Tempestade"]
+              },
+              {
+                "nomeConjunto": "BUILD COMPLETA #2 | BURST (Q)!",
+                "dicaDoAutor": "Embora a passiva de Florescer de Cripta não seja para burst, oferece uma quantidade absurda de penetração mágica e muito dano para uma build de (Q).",
+                "itens": ["Sapatos do Feiticeiro", "Ladrão de Almas de Mejai", "Tormento de Liandry", "Chama Sombria", "Surto da Tempestade", "Capuz da Morte de Rabadon"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nomeRota": "JUNGLE",
+        "buildsDeItens": [
+          {
+            "categoria": "ITENS INICIAIS CORE / BOTAS",
+            "conjuntos": [
+              {
+                "nomeConjunto": "Escolha um smite",
+                "dicaDoAutor": "Preferência pessoal. Se estiver jogando com Pressionar o Ataque, você quer mobilidade e velocidade de clear, então o Andarilho do Vento é ideal. Garra de Brasa é ótimo para acumular mais dano de queimação com Cogumelos e build apropriada.",
+                "itens": [
+                  { "nome": "Cria de Andarilho do Vento", "quantidade": 1 },
+                  { "nome": "Mascote Garra de Brasa", "quantidade": 1 },
+                  { "nome": "Poção de Vida", "quantidade": 2 }
+                ]
+              },
+              {
+                "nomeConjunto": "Escolha de Botas",
+                "dicaDoAutor": "Botas da Rapidez é frequentemente a melhor opção, permitindo que você percorra o mapa de forma muito mais eficaz, especialmente quando combinado com Andarilho do Vento e Celeridade/Caminhar Sobre as Águas.",
+                "itens": ["Botas da Rapidez", "Grevas do Berserker", "Sapatos do Feiticeiro", "Botas Ionianas da Lucidez"]
+              }
+            ]
+          },
+          {
+            "categoria": "PRESSIONAR O ATAQUE (Invade)",
+            "conjuntos": [
+              {
+                "nomeConjunto": "Primeiro Retorno (On-Hit)",
+                "dicaDoAutor": "Este é seu retorno ideal, tentando construir Dente de Nashor como seu primeiro item, a menos que você opte por um Mítico AP, o que não é aconselhável, pois você ficará para trás dos caçadores inimigos.",
+                "itens": ["Grevas do Berserker", "Arco Recurvo", "Sentinela de Controle", "Lente do Oráculo"]
+              },
+              {
+                "nomeConjunto": "Controle Rotacional",
+                "dicaDoAutor": "Você jogará para mobilidade, kiting on-hit e destruição de alvos únicos. Barão/Dragões serão derretidos facilmente. Com Andarilho do Vento, você ganha enormes quantidades de velocidade de clear, dano e movimento pelo mapa.",
+                "itens": ["Botas da Rapidez", "Dente de Nashor", "Ladrão de Almas de Mejai", "Chama Sombria", "Tocha de Fogo Negro", "Capuz da Morte de Rabadon"]
+              }
+            ]
+          },
+          {
+            "categoria": "COLHEITA SOMBRIA (Cogumelos)",
+            "conjuntos": [
+              {
+                "nomeConjunto": "Primeiro Retorno (Burn)",
+                "dicaDoAutor": "Este é seu retorno ideal, tentando construir Tormento de Liandry como seu primeiro item para assumir o controle da selva.",
+                "itens": ["Botas da Rapidez", "Cinzas Predestinadas", "Sentinela de Controle", "Lente do Oráculo"]
+              },
+              {
+                "nomeConjunto": "Controle de Mapa",
+                "dicaDoAutor": "A principal diferença é que você está tentando acumular muito dano de queimação para controle massivo do mapa, espalhando cogumelos por todos os caminhos. Seu dano de alvo único será significativamente menor no início.",
+                "itens": ["Botas da Rapidez", "Tormento de Liandry", "Tocha de Fogo Negro", "Chama Sombria", "Malevolência", "Capuz da Morte de Rabadon"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nomeRota": "MID",
+        "buildsDeItens": [
+          {
+            "categoria": "ITENS INICIAIS CORE",
+            "conjuntos": [
+              { "nomeConjunto": "ANEL DE DORAN", "itens": ["Anel de Doran", "Poção de Vida"] },
+              { "nomeConjunto": "SELO NEGRO", "itens": ["Selo Negro", "Poção com Refil"] },
+              { "nomeConjunto": "CONTRA ZED / TALON", "itens": ["Armadura de Pano", "Poção de Vida"] }
+            ]
+          },
+          {
+            "categoria": "OPÇÕES DE PRIMEIRO RETORNO",
+            "conjuntos": [
+              { "nomeConjunto": "DANO", "itens": ["Cinzas Predestinadas", "Sapatos do Feiticeiro"] },
+              { "nomeConjunto": "CS / POKE", "itens": ["Arco Recurvo", "Grevas do Berserker"] },
+              { "nomeConjunto": "CONTRA ZED: FAÇA ZHONYA'S RÁPIDO", "itens": ["Proteção de Braço da Caçadora", "Cristal de Rubi"] }
+            ]
+          },
+          {
+            "categoria": "COLHEITA SOMBRIA",
+            "conjuntos": [
+              {
+                "nomeConjunto": "GERAL",
+                "dicaDoAutor": "Para um estilo de jogo orientado para (R), priorize a capacidade de pokear cedo (Q) e escalar para o dano do (R). Malevolência é um item muito poderoso e provavelmente será nerfado.",
+                "itens": ["Sapatos do Feiticeiro", "Tormento de Liandry", "Chama Sombria", "Malevolência", "Tocha de Fogo Negro", "Capuz da Morte de Rabadon"]
+              },
+              {
+                "nomeConjunto": "BURST SNOWBALL",
+                "dicaDoAutor": "Esta é a melhor maneira de acumular Colheita Sombria para o seu late game.",
+                "itens": ["Sapatos do Feiticeiro", "Ladrão de Almas de Mejai", "Perdição de Lich", "Chama Sombria", "Surto da Tempestade", "Capuz da Morte de Rabadon"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nomeRota": "SUPPORT",
+        "buildsDeItens": [
+          {
+            "categoria": "ITENS INICIAIS CORE",
+            "conjuntos": [
+              {
+                "nomeConjunto": "ITEM DE SUPORTE ZAZ'ZAK",
+                "dicaDoAutor": "Para ganhar acesso aos cinco itens de suporte primários, você precisará acumular o item até 1000 de ouro. Zaz'Zak's Realmspike é o melhor para Teemo, pois causa dano mágico adicional significativo nos seus cogumelos.",
+                "itens": ["Espinho Dimensional de Zaz'Zak", "Poção de Vida"]
+              },
+              {
+                "nomeConjunto": "POR QUE FAZER MALIGNANCE PRIMEIRO?",
+                "dicaDoAutor": "Como suporte, a renda é limitada. É mais eficaz obter acesso rápido ao seu (R) e controle de mapa. Malevolência + Tocha de Fogo Negro é mais barato e te coloca no jogo mais rápido do que Liandry.",
+                "itens": ["Malevolência"]
+              }
+            ]
+          },
+          {
+            "categoria": "BUILDS COMPLETAS DE EXEMPLO",
+            "conjuntos": [
+              {
+                "nomeConjunto": "COGUMELOS",
+                "dicaDoAutor": "Como a renda de suporte é difícil, Malignance é a melhor escolha inicial. É barato e, quando você o obtém, pode começar a perambular e controlar o mapa, escalando para o final do jogo.",
+                "itens": ["Sapatos do Feiticeiro", "Espinho Dimensional de Zaz'Zak", "Malevolência", "Tocha de Fogo Negro", "Chama Sombria", "Capuz da Morte de Rabadon"]
+              },
+              {
+                "nomeConjunto": "SITUACIONAIS",
+                "dicaDoAutor": "Anti-cura para jogos de alta sustentação. Você compraria isso no início do jogo se fosse crucial. Cajado do Vazio para composições com RM.",
+                "itens": ["Morellonomicon", "Cajado do Vazio"]
+              },
+              {
+                "nomeConjunto": "VENDA AS BOTAS (LATE GAME)",
+                "dicaDoAutor": "Como você tem um item de suporte ocupando um slot, é mais eficaz vender suas botas no final do jogo. Surto da Tempestade compensará a perda de penetração mágica e aumentará ainda mais seu dano.",
+                "itens": ["Surto da Tempestade"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
